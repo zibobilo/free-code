@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Raphael Burkhardt",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"gh-pages": "^4.0.0"
 	},
 	"main": "server.js",
 	"scripts": {
